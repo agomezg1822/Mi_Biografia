@@ -18,3 +18,21 @@
 .derecha{
     margin: 70px;
 }
+
+nav ul{
+  
+    display: flex;
+    list-style: none;
+}
+
+nav ul li{
+    color: #fff;
+    padding: 0;
+    display: flex;
+    text-decoration: none;
+}
+
+main{
+    padding: 100px;
+    width: 50%;
+}
